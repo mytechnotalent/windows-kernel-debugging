@@ -120,4 +120,4 @@ Click **OK**. WinDbg will say:
 <br>
 
 ## License
-[MIT](https://github.com/mytechnotalent/UiDll/blob/master/LICENSE.txt)
+[MIT](https://github.com/mytechnotalent/windows-kernel-debugging/blob/master/LICENSE.txt)
